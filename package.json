@@ -4,7 +4,8 @@
   "description": "In this page inside the diferents scripts",
   "main": "index.js",
   "scripts": {
-    "test": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\"."
+    "test": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\".",
+    "hi": "node index.js"
   },
   "repository": {
     "type": "git",
