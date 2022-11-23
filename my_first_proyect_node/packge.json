@@ -1,0 +1,15 @@
+{
+    "name": "hola-mundo",
+    "version": "1.0.0",
+    "description": "This is my first project of JavaScript with Open Bootcamp",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "test1": "This is a check test for know if the test run",
+      "Hi": "node hello_world.js",
+      "start": "node index.js"
+    },
+    "author": "Manu Rodriguez",
+    "license": "ISC"
+  }
+  
